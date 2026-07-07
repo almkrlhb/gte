@@ -1,10 +1,5 @@
 // src/App.tsx
-
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
-import cloudflareLogo from "./assets/Cloudflare_Logo.svg";
-import honoLogo from "./assets/hono.svg";
+import cloudflareLogo from "./assets/ChatGPT-Image-Jul-6_-2026_-02_56_06-PM.svg";
 import "./App.css";
 
 function App() {
