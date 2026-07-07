@@ -26,7 +26,7 @@ function App() {
 					/>
 				</a>
 			</div>
-			<h1>Welcome to GeoTech Explorer | Dr. Alam's  website.The Website is under Construction.</h1>
+			<h1>Welcome to GeoTech Explorer | Dr. Alam's  website.</h1>
 			<div className="card">
 				<button
 					onClick={() => setCount((count) => count + 1)}
@@ -35,7 +35,7 @@ function App() {
 					count is {count}
 				</button>
 				<p>
-					Edit <code>src/App.tsx</code> and save to test HMR
+					The Website is under Construction.
 				</p>
 			</div>
 			<div className="card">
@@ -50,10 +50,10 @@ function App() {
 					Name from API is: {name}
 				</button>
 				<p>
-					Edit <code>worker/index.ts</code> to change the name
+					
 				</p>
 			</div>
-			<p className="read-the-docs">Click on the logos to learn more</p>
+			<p className="read-the-docs">Visit the youtube link above for exploring.</p>
 		</>
 	);
 }
