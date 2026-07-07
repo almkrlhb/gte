@@ -1,5 +1,5 @@
 // src/App.tsx
-import cloudflareLogo from "./assets/ChatGPT-Image-Jul-6_-2026_-02_56_06-PM.svg";
+import cloudflareLogo from "./assets/backlolo.svg";
 import "./App.css";
 
 function App() {
@@ -10,21 +10,7 @@ function App() {
 		<>
 			<div>
 				<a href="https://vite.dev" target="_blank">
-					<img src={viteLogo} className="logo" alt="Vite logo" />
-				</a>
-				<a href="https://react.dev" target="_blank">
-					<img src={reactLogo} className="logo react" alt="React logo" />
-				</a>
-				<a href="https://hono.dev/" target="_blank">
-					<img src={honoLogo} className="logo cloudflare" alt="Hono logo" />
-				</a>
-				<a href="https://workers.cloudflare.com/" target="_blank">
-					<img
-						src={cloudflareLogo}
-						className="logo cloudflare"
-						alt="Cloudflare logo"
-					/>
-				</a>
+					<img src={backloloLogo} className="logo" alt="backlolo logo" />
 			</div>
 			<h1>Welcome to GeoTech Explorer | Dr. Alam's  website.</h1>
 			<div className="card">
@@ -47,7 +33,7 @@ function App() {
 					}}
 					aria-label="get name"
 				>
-					Name from API is: {name}
+					Name of the constructor is: {name}
 				</button>
 				<p>
 					
